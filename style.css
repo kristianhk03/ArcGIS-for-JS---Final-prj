@@ -9,6 +9,7 @@ body,
 
 #layerList-btn, #basemap-btn {
     padding: 6px;
+    cursor: pointer;
 
 }
 
